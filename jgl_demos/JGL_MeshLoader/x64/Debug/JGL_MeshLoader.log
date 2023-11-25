@@ -1,0 +1,43 @@
+﻿  main.cpp
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\elems\camera.h(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  pch.cpp
+  scene_view.cpp
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\elems\camera.h(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\ui\scene_view.cpp(10,15): warning C4244: “=”: 从“int32_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\ui\scene_view.cpp(11,15): warning C4244: “=”: 从“int32_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  property_panel.cpp
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\elems\camera.h(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  opengl_context.cpp
+  application.cpp
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\elems\camera.h(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  element.cpp
+  face.cpp
+  vertex_holder.cpp
+  opengl_buffer_manager.cpp
+  ui_context.cpp
+  jgl_window.cpp
+E:\DemoRender\jgl_demos\JGL_MeshLoader\source\elems\camera.h(86,23): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  mesh.cpp
+  import_obj.cpp
+  shader_util.cpp
+  正在生成代码...
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  正在生成代码...
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  JGL_MeshLoader.vcxproj -> E:\DemoRender\jgl_demos\x64\Debug\JGL_MeshLoader.exe
